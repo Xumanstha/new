@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\logic\logic\bin\Debug\logic.exe.config
+C:\Users\User\source\repos\logic\logic\bin\Debug\logic.exe
+C:\Users\User\source\repos\logic\logic\bin\Debug\logic.pdb
+C:\Users\User\source\repos\logic\logic\obj\Debug\logic.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\logic\logic\obj\Debug\logic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\logic\logic\obj\Debug\logic.exe
+C:\Users\User\source\repos\logic\logic\obj\Debug\logic.pdb
